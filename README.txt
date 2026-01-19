@@ -108,7 +108,7 @@ For the most recent information about sponsoring look on the Vim web site:
 
 
 CONTRIBUTING
-
+salut byeeee j'ai finis mon taff
 If you would like to help make Vim better, see the CONTRIBUTING.md file.bonsoir j'espere que vous allez bien poto
 
 
