@@ -108,32 +108,8 @@ For the most recent information about sponsoring look on the Vim web site:
 
 
 CONTRIBUTING
-
-If you would like to help make Vim better, see the CONTRIBUTING.md file.
-
-
-INFORMATION
-
-If you are on macOS, you can use MacVim: https://macvim.org
-
-The latest news about Vim can be found on the Vim home page:
-	https://www.vim.org/
-
-If you have problems, have a look at the Vim documentation or tips:
-	https://www.vim.org/docs.php
-	https://vim.fandom.com/wiki/Vim_Tips_Wiki
-
-If you still have problems or any other questions, use one of the mailing lists
-to discuss them with Vim users and developers:
-	https://www.vim.org/maillist.php
-
-If nothing else works, report bugs directly to the vim-dev mailing list:
-	<vim-dev@vim.org>
+salut byeeee j'ai finis mon taff
+If you would like to help make Vim better, see the CONTRIBUTING.md file.bonsoir j'espere que vous allez bien poto
 
 
-MAIN AUTHOR
 
-Most of Vim was created by Bram Moolenaar <Bram@vim.org>, ":help Bram-Moolenaar"
-
-Send any other comments, patches, flowers and suggestions to the vim-dev
-mailing list: <vim-dev@vim.org>
