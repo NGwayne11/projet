@@ -109,7 +109,7 @@ For the most recent information about sponsoring look on the Vim web site:
 
 CONTRIBUTING
 
-If you would like to help make Vim better, see the CONTRIBUTING.md file.
+If you would like to help make Vim better, see the CONTRIBUTING.md file.bonsoir j'espere que vous allez bien poto
 
 
 
